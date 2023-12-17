@@ -1,0 +1,33 @@
+Category (Job Role): Unknown
+Skills: DATASTAGE, ETL, DEVELOPER, Summary, years, ETL, experience, experience, business, system, analysis, platforms, software, development, life, cycle, role, Data, Warehouse, Specialist, ETL, developer, Production, Support, Analyst, matter, expertise, mainframe, sources, COBOL, ASCII, File, structure, sources, RDBMS, business, intelligence, data, DB2, Netezza, Oracle, SQL, Server, Hadoop, Hive, Data, Warehouses, Banking, Credit, card, conversion, Member, Debt, solutions, project, Unites, Services, Automobile, Association, projects, Requirement, analysis, Risk, assessment, management, Data, planning, driving, Process, Implementation, Team, management, Project, tracking, interaction, Release, Management, tracking, Warranty, support, period, record, system, support, business, value, mid, -, level, business, intelligence, applications, leadership, skills, project, assignments, resources, requirements, time, Skills, Expertise, IBM, Datastage, 8.5,9.1, versions, ETL, ELT, operations, data, Proficiency, Unix, Shell, Scripting, Proficiency, writing, Â, complex, SQL, Informatica, ETL, Support, experience, Version, Hands, experience, IBM, DB2, SQL, Server, Oracle, Data, archival, IBM, BIGINSIGHTS, HIVE, tables, Experience, Control, M, Scheduling, Tool, Accomplishments, IBM, Certified, Solution, Developer, InfoSphere, Datastagev8.5Â, IBM, Certified, Solution, Developer, InfoSphere, Datastage, v9.1Â, Oracle, Database, g, SQL, Fundamentals, I., Experience, DATASTAGE, ETL, DEVELOPER, Jan, Current, Company, Name, City, State, MEMBER, DEBT, SOLUTIONS, PROJECT, Project, conversion, SQL, sandbox, data, Netezza, Collections, data, scale, analytics, Â, Developed, Datastage, Jobs, Collections, data, sources, Aspect, CACS, Strata, FICO, Fidelity, FDR, Dimensions, Fact, tables, business, transformations, phases, SDLC, Analysis, Design, documents, source, mappings, project, documentation, data, model, diagrams, management, understanding, needs, data, flow, proposals, enhancements, integration, party, data, business, users, project, management, business, requirements, ETL, ELT, specifications, support, business, team, user, departments, projects, HandledÂ, resources, project, requirements, time, BIGINSIGHTS, DATA, ARCHIVAL, part, data, archival, project, framework, files, foundation, layer, Unix, Shell, Scripting, data, foundation, layer, BIGSQL, Hive, tables, top, Hadoop, data, Hive, query, language, discovery, purpose, â€‹, DATASTAGE, MIGRATION, PROJECTÂ, Â, jobs, InfoSphere, Information, Server, Version, toÂ, InfoSphere, Information, Server, Version, task, migration, requirements, design, topology, playbook, test, jobs, QA, server, ver, production, implementation, support, DATASTAGE, ETL, DEVELOPER, Feb, Jan, Company, Name, City, State, CREDIT, CARD, CONVERSION, PROJECT, project, entity, credit, cards, entity, credit, cards, migration, portfolio, view, credit, card, applications, number, history, analytics, usage, jobs, ETL, transformations, requirement, Dimensions, Fact, tables, Lead, team, project, project, documentation, Application, SME, matter, expertise, project, implementation, INFORMATICA, DATASTAGE, ETL, CONVERSION, mappings, Informatica, ETL, tool, tool, part, ETL, conversion, project, Informatica, workflow, mapping, jobs, Industry, standards, test, case, scenario, production, implementation, support, DATAWAREHOUSE, MIGRATION, IBM, NETEZZA, TB, Data, IBM, Netezza, platform, DB2, SQL, Oracle, warehouses, Requirement, gathering, Table, design, ETL, Design, testing, implementation, DATASTAGE, SERVER, MIGRATION, PROJECT, jobs, InfoSphere, Information, Server, Version, toÂ, InfoSphere, Information, Server, Versions, years, PRODUCTION, SUPPORT, ANALYST, Jan, Feb, Company, Name, City, State, DATA, MANAGEMENT, RETURN, TO, SERVICE, objective, project, Extract, Transform, Load, ETL, portfolio, projects, enterprise, level, production, support, role, problem, resolution, processing, cycles, Datastage, Informatica, period, record, system, support, business, value, mid, -, level, business, intelligence, applications, Â, Service, Requests, ETL, jobs, business, requirements, Education, Training, BACHELOR, TECHNOLOGY, ANNA, UNIVERSITY, City, State, INDIA, BUSINESS, INTELLIGENCE, TRAINING, TATA, CONSULTANCY, SERVICES, City, State, INDIA, SEPTEMBER, DECEMBER, 2011Â, course, overview, business, information, technology, professionals, confidence, business, intelligence, data, warehousing, activities, Hands, training, ETL, tools, Informatica, Datastage, data, warehousing, environment, days, DATASTAGE, TRAINING, GREENS, TECHNOLOGIES, City, State, INDIA, course, ETL, developers, Datastage, Development, Data, Warehousing, Data, Modeling, training, world, ETL, process, implementations, Activities, Honors, DISTINGUISHED, ACHIEVER, TATA, CONSULTANCY, SERVICES, FEB
+Education: Degree - Education and Training 
+ BACHELOR OF TECHNOLOGY 
+ 
+ 2011 
+ 
+ ANNA UNIVERSITY 
+ 
+ ï¼​ 
+ City 
+ 
+ 
+ State 
+ 
+ 
+ INDIA 
+ BUSINESS INTELLIGENCE TRAINING 
+ 
+ 2011 
+ 
+ TATA CONSULTANCY SERVICES 
+ 
+ ï¼​ 
+ City 
+ 
+ 
+ State 
+ 
+ 
+ INDIA 
+ SEPTEMBER 2011 DECEMBER 2011Â 
+, Institution - UNIVERSITY

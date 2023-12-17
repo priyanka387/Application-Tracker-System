@@ -1,0 +1,25 @@
+Category (Job Role): Unknown
+Skills: ENGINEERING, Looking, opportunities, research, environment, solutions, systems, circuit, system, level, Education, Master, Science, Electrical, Engineering, North, Carolina, State, University, City, State, USA, Bachelor, Engineering, Instrumentation, Control, Engineering, Netaji, Subhas, Institute, Technology, City, State, India, %, First, Class, Distinction, Â, Academic, Merit, Award, Experience, Engineering, Officer, Company, Name, City, State, team, electricians, technicians, maintenance, equipment, LPG, plant, Role, procurement, spares, materials, inventory, plant, tasks, Maintenance, calibration, equipment, cylinder, gas, leak, detectors, washer, leak, detectors, gas, analyzers, Upkeep, panels, control, systems, Maintenance, drive, units, compressors, LPG, pumps, plant, equipments, production, line, throughput, Operations, Officer, 06/2013, Company, Name, City, State, Oversaw, operations, LPG, plant, production, activities, workforce, production, line, production, safety, standards, production, line, equipment, calibration, checks, equipments, quality, check, machines, hazard, cylinders, Intern, Company, Name, City, State, automation, control, system, design, Distributed, Control, Systems, Programmable, Logical, Controllers, interfacing, instruments, Controllers, communication, protocols, report, reference, manual, details, systems, instruments, company, Intern, Company, Name, City, State, instruments, process, applications, petroleum, refinery, Knowledge, use, devices, areas, ratings, equipment, zones, instruments, Distributed, Control, Systems, parameters, PID, controllers, Work, Research, Paper, Â, K.P.S., Rana, N., Mittra, N., Pramanik, P., Dwivedi, P., Mahajan, Virtual, Instrumentation, Approach, Neural, Network, Thermistor, Linearization, Field, Programmable, Gate, Array, Experimental, Techniques, Volume, Issue, pages, Jan, Â, Â, Conference, Presentation, Â, K., P., S., Rana, Vineet, Kumar, Neel, Pramanik, Nishant, Mitra, Sumit, Kumar, Shakya, Applications, FPGA, Custom, Waveform, Generation, Triggering, Metrology, Conference, International, Conference, Advances, Metrology, AdMET, Organised, CSIR, NPL, Metrology, Society, India, New, Delhi, India, Feb, Â, Projects, Company, Name, City, State, Engineering, Officer, Programmable, Logic, Controller, PLC, Based, Chain, Conveyor, Tripping, System, control, loop, Allen, Bradely, PLC, controller, readings, drive, units, tripping, signals, motor, health, Engineering, Officer, 06/2014, Infrared, Sensor, boom, system, IR, sensor, system, presence, objects, front, machinery, Operations, Officer, sensor, air, machine, cylinder, sealing, system, electro, sensor, sealing, system, production, line, performance, hour, Company, Name, City, State, Bachelor, Engineering, 06/2013, Intelligent, Controllers, HVAC, system, Implementation, control, techniques, power, management, PWM, PI, control, Fuzzy, PI, control, FPGA, target, controller, HVAC, system, Fractional, Order, PI, controller, target, results, Skills, Design, Software, LabVIEW, Synopsys, Design, Vision, Modelsim, Cadence, Virtuoso, Programming, Languages, C, C++, Verilog, Operating, Systems, Windows, Linux, OSX, Equipment, Oscilloscope, Spectrum, Analyzer, Multimeter, Accomplishments, Certificate, Merit, academics, NSIT, Green, House, Vice, Captain, Senior, Secondary, Black, Belt, Taekwon
+Education: Degree - Electrical Engineering 
+ 
+ 2017 
+ 
+ North Carolina State University 
+ 
+ City 
+ 
+ 
+ State 
+ 
+ 
+ USA 
+ Bachelor of Engineering 
+ 
+ 
+ Instrumentation and Control Engineering 
+ 
+ 2013 
+ 
+ Netaji Subhas Institute Of Technology 
+ 
+, Institution - University

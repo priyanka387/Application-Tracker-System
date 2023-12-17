@@ -1,0 +1,19 @@
+Category (Job Role): Unknown
+Skills: GEEK, SQUAD, AGENT, Professional, Profile, IT, support, specialist, experience, disciplines, support, customer, service, computer, repair, service, team, Qualifications, Windows, Mac, IOS, Android, Technical, Support, Hardware, Software, Maintenance, User, Training, Malware, Detection, Removal, Customer, Service, Entry, Level, Active, Directory, Ticketing, Problem, Solving, Research, Experience, Company, Name, August, October, Geek, Squad, Agent, City, State, support, person, phone, hardware, software, installation, repair, setup, PCs, devices, Company, Name, January, January, Shipping, Associate, City, State, shipping, receiving, product, inventory, management, General, logistics, warehouse, duties, Company, Name, January, January, Assembler, Shipping, Associate, City, State, Assembled, tanks, specifications, inventory, tools, supplies, shipping, duties, Company, Name, January, January, Aviation, Electrician, City, State, Performed, troubleshooting, maintenance, aircraft, ground, handling, marshalling, aircraft, flight, inspections, Education, Purdue, University, B.S, Computer, Information, Technology, City, State, Computer, Information, Technology, Skills, Active, Directory, Hardware, Customer, Service, inventory, management, inventory, logistics, Mac, Windows, Problem, Solving, Research, shipping, software, installation, support, User, Training, phone
+Education: Degree - Education 
+ Purdue University 
+ 
+ 2014 
+ 
+ B.S 
+ 
+ 
+ Computer Information Technology 
+ 
+ City 
+ 
+ 
+ State 
+ 
+ Computer Information Technology 
+, Institution - University

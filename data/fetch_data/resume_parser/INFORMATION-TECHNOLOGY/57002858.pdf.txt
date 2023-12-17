@@ -1,0 +1,25 @@
+Category (Job Role): Unknown
+Skills: INFORMATION, TECHNOLOGY, MANAGER, Summary, Experienced, Information, Technology, Manager, skills, date, industry, knowledge, problem, skills, ability, communication, skills, assets, situation, Experience, Company, Name, City, State, Information, Technology, Manager, 01/2007, Current, budget, technologies, firm, part, technology, team, Accounting, Billing, system, firewall, network, monitoring, server, site, improvements, design, solutions, integration, solutions, members, IT, team, network, security, troubleshooting, data, circuits, network, system, data, availability, integrity, maintenance, upgrades, Managed, Migration, Exchange, Manged, Migration, Windows, XP, Office, Windows, Office, Office, Office, migration, Physical, Servers, VMWare, ESXi, Virtual, Server, environment, IT, vendor, telecommunication, contracts, IT, Vendor, relationships, documentation, start, up, level, troubleshooting, processes, desk, staff, company, policies, procedures, standards, integrity, security, data, reports, access, Company, Name, City, State, Technical, Project, Lead, 01/2007, Client, relationships, Technical, Integrity, Infrastructure, Managing, Engineers, Client, projects, time, management, time, approval, resource, scheduling, Novell, Cluster, Groupwise, Novell, Cluster, completion, projects, IT, Department, client, sites, Helpdesk, management, Company, Name, City, State, Systems, Engineer, Install, Support, Novell, Windows, NT, Windows, servers, servers, environment, implementation, infrastructure, Server, Side, teams, deadlines, Novell, Groupwise, installation, SQL, Cluster, Microsoft, Server, environment, Company, Name, City, State, Network, Analyst, 10/2001, 10/2003, Managed, Novell, 4.x, 5.x, Servers, Windows, NT, Windows, Servers, Citrix, MetaFrame, XPa, GroupWise, level, support, PC, Network, issues, Company, Name, City, State, Night, Desk, Supervisor, 07/2000, Supervise, employees, issue, escalations, projects, time, completion, Manage, client, relationships, Company, Name, City, State, Senior, Network, Engineer, 07/2000, LAN, WAN, Infrastructure, Evaluate, purchase, Novell, Windows, NT, Servers, Manage, Cisco, Switches, Routers, WAN, T1, Connections, Company, Name, City, State, Network, Analyst, Support, Novell, Servers, NDS, Directory, Structure, servers, workstation, clients, Company, Name, City, State, Network, Support, Specialist, Software, hardware, Network, phone, system, voicemail, installation, support, move, company, Network, wiring, Phone, system, upgrade, Company, Name, City, State, Service, Manager, Install, customer, systems, network, installations, rollouts, computer, additionaltechnicians, Education, Associate, Science, Business, Administration, McHenry, County, College, City, State, Business, Administration, Interests, Algonquin, Argonauts, Football, Board, Directors, Secretary, Algonquin, Argonauts, Football, Assistant, Coach, Offensive, Coordinator, Additional, Information, AFFILIATIONS, Algonquin, Argonauts, Football, Board, Directors, Secretary, Algonquin, Argonauts, Football, Assistant, Coach, Offensive, Coordinator, Skills, Accounting, backup, Billing, system, budget, Citrix, MetaFrame, communication, hardware, contracts, Client, clients, documentation, wiring, firewall, Groupwise, Novell, Groupwise, GroupWise, desk, LAN, Managing, access, Exchange, Windows, Office, Office, Windows, Windows, Windows, NT, Windows, NT, Windows, XP, Migration, NDS, network, security, Network, Novell, Novell, Novell, Novell, Novell, Servers, Phone, system, policies, problem, processes, Routers, scheduling, Servers, SQL, Cisco, Switches, T1, telecommunication, time, management, troubleshooting, upgrades, upgrading, upgrade, WAN
+Education: Degree - 
+ 
+ Business Administration 
+ 
+ 1996 
+ 
+ McHenry County College 
+ 
+ 
+ City 
+ 
+ 
+ State 
+ 
+ Business Administration 
+ Interests 
+ Algonquin Argonauts Football Board of Directors Secretary Algonquin Argonauts Football Assistant Coach Offensive Coordinator 
+ Additional Information 
+ AFFILIATIONS Algonquin Argonauts Football Board of Directors Secretary Algonquin Argonauts Football Assistant Coach Offensive 
+ Coordinator 
+ Skills 
+ Accounting backup Billing system budget Citrix MetaFrame Excellent communication hardware contracts Client clients documentation 
+ electrical wiring firewall Groupwise Novell Groupwise 6.5 GroupWise 5.x, Institution - College

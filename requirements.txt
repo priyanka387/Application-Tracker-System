@@ -1,0 +1,12 @@
+PyPDF2
+chromadb
+numpy
+pandas
+scikit-learn
+nltk
+spacy
+transformers
+datasets
+torch
+torchvision
+gensim

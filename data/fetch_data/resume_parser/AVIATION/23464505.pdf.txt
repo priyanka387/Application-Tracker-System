@@ -1,0 +1,19 @@
+Category (Job Role): Unknown
+Skills: JAVA, INTERN, Career, Overview, Developer, structuring, websites, experience, end, programming, databases, performance, testing, SAN, Education, May, Wichita, State, University, City, State, Master, Science, Computer, Science, GPA, GPA, GPA, May, BMSCE, City, State, Bachelor, Engineering, Computer, Science, GPA, GPA, GPA, Qualifications, Programming, design, skills, skills, Optimizing, performance, tuning, Experience, writing, test, plans, Experience, Agile, Software, development, methodology, projects, team, Experience, project, presentations, enthusiasm, concepts, Technical, Skills, Server, side, technologies, servlets, JSP, J2EE, technologies, Hibernate3.x, JPA, Spring, Struts, EJB, JMS, Design, patterns, SQL, Pl, SQL, Client, side, scripting, HTML5, CSS, Java, Script, AngularJS, Jquery, bootstrap, Consuming, SOAP, web, services, XML, JSON, C, C++,Unix, system, programming, CUDA, Perl, Data, Structures, system, concepts, programming, SAN, UNIX, Tools, Eclipse, IOmeter, Code, Warrior, vi, editor, Visual, Studio, Arduino, Oracle, g, Code, Blocks, initiator, NetApp, tools, Navicat, JConsole, JMeter, tomcat, JBOSS, Git, Technical, projects, Unix, system, programming, search, tree, system, calls, C, Linux, platform, file, records, Implementation, Unix, commands, tail, tee, cp, mv, C, Apriori, algorithm, proposal, Nvidia, GPU, Performance, Apriori, algorithm, threads, core, machine, threading, GPU, algorithm, processing, overhead, GPU, management, system, module, organization, attendance, employees, system, project, html, jquery, AngularJS, end, Spring, MVC, Hibernate, tomcat, server, end, Oracle, g, server, database, Work, Experience, Java, intern, Current, Company, Name, City, State, Designing, Leave, Management, System, use(Spring, MVC, training, core, java, J2EE, technologies, Consuming, web, services, bank, application, Single, Page, Application, AngularJS, Test, contractor, Performance, team, Company, Name, City, State, test, cases, performance, numbers, benchmarks, root, cause, analysis, performance, degradation, controller, firmware, performance, verification, PCV, meetings, Automated, Action, Word, Script, AWS, batch, script, Java, Member, automation, team, Graduate, Research, Assistant, 12/2013, Company, Name, City, State, Managed, NIAR, composites, database, charts, database, macros, data, analysis
+Education: Degree - Education 
+ May 2015 
+ 
+ Wichita State University 
+ 
+ ï¼​ 
+ City 
+ 
+ 
+ State 
+ 
+ Master of Science 
+ 
+ Computer Science 
+ 
+ GPA 
+ GPA, Institution - University
